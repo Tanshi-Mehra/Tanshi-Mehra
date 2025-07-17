@@ -8,7 +8,7 @@
 
 ---
 ### 💫 About Me:  
-Hello there! I'm **Tanshi Mehra**, a tech enthusiast and a 3rd-year B.Tech student at **GEHU Bhimtal**, driven by curiosity and a passion for solving real-world problems through technology. From crafting elegant algorithms to designing seamless user experiences, I thrive on creating impactful solutions.  
+Hello there! I'm **Tanshi Mehra**, a tech enthusiast and a final year B.Tech student at **GEHU Bhimtal**, driven by curiosity and a passion for solving real-world problems through technology. From crafting elegant algorithms to designing seamless user experiences, I thrive on creating impactful solutions.  
 
 🚀 **Current Focus:**  
 Enhancing my expertise in software development and exploring the world of full-stack web development, with a particular interest in building scalable and dynamic applications.  
