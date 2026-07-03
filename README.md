@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Innovating%20Today,%20Inspiring%20Tomorrow!;&width=420&height=45&speed=60">
 </p>
 
-<h3 align="center"> Tech Enthusiast | Upcoming Software Developer </h3>
+<h3 align="center"> Tech Enthusiast | Curious Mind. Creative Soul. Consistent Learner.  </h3>
 
 ---
 ### 💫 About Me:  
