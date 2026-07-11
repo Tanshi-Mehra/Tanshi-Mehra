@@ -8,7 +8,7 @@
 
 ---
 ### 💫 About Me:  
-Hello there! I'm **Tanshi Mehra**, a tech enthusiast and a final year B.Tech student at **GEHU Bhimtal**, driven by curiosity and a passion for solving real-world problems through technology. From crafting elegant algorithms to designing seamless user experiences, I thrive on creating impactful solutions.  
+Hello there! I'm **Tanshi Mehra**, a tech enthusiast and a final year B.Tech student at **GEHU Bhimtal**, driven by curiosity and a passion for solving real-world problems through technology. From[...]
 
 🚀 **Current Focus:**  
 Enhancing my expertise in software development and exploring the world of full-stack web development, with a particular interest in building scalable and dynamic applications.  
@@ -16,9 +16,10 @@ Enhancing my expertise in software development and exploring the world of full-s
 🌟 **Core Interests:**  
 - Deep-diving into DSA, DAA, and tackling challenging coding problems to stay ahead in the tech game.  
 - Continuously evolving my skills in software development and emerging technologies.  
+- Exploring AI/ML, Data Science, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and agentic AI.
 
 🍿 **When I'm Not Coding:**  
-I enjoy unwinding by watching comedy shows, like *Shark Tank* and other cooking shows. I believe that the creativity and problem-solving in these shows often inspire new ways of thinking, both in life and in my tech projects!  
+I enjoy unwinding by watching comedy shows, like *Shark Tank* and other cooking shows. I believe that the creativity and problem-solving in these shows often inspire new ways of thinking, both in [...]
 
 📬 **Get in Touch:**  
 - **Email:** tanshimehra547@gmail.com  
@@ -30,10 +31,10 @@ Let’s connect, collaborate, and create something remarkable! 🚀
 
 ### 💻 Tech Stack:
 ### 🛠️ **Languages & Tools:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white[...]
 
 ### 🧰 **Development Tools:**
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![DevC++](https://img.shields.io/badge/DevC%2B%2B-009639?style=for-the-badge&logo=devc%2B%2B&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![DevC++](https://img.shields.io/badge/DevC%2B%2B-009639?style=for-the-badge&logo[...]
 
 
 
